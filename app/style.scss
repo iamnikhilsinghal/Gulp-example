@@ -1,0 +1,13 @@
+$col : "red";
+
+div {
+    display: block;
+
+    .content {
+        position: relative;
+    }
+}
+
+.red {
+    color: $col;
+}
